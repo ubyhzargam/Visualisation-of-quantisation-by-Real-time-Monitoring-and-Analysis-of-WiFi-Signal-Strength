@@ -23,3 +23,4 @@ Continuous Monitoring:
 The script runs in an infinite loop, continuously updating and visualizing the WiFi signal strength.
 Note: Make sure to run this script in an environment with the necessary permissions to access WiFi information. Additionally, consider adding an exit condition for the infinite loop to gracefully stop the monitoring.
 This code is run on Mac platform with maltplotlib and python installed in your system
+Here is a video demonstration of the same : https://drive.google.com/file/d/1cBNHvz9urt8Bn_m3O_LwomBbwrhbOCxQ/view?usp=sharing
